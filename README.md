@@ -1,6 +1,6 @@
 # student-attendance
 
-> A Vue.js project
+> 学生考勤
 
 ## Build Setup
 
